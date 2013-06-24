@@ -37,3 +37,5 @@ $('h1').matrixtype({
 ==License==
 
 MatrixTyper is licensed under the WTFPL License
+
+www.goufo.co.il
