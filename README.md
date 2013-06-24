@@ -1,5 +1,7 @@
 MatrixTyper
 ===========
+## DEMO
+http://www.goufo.co.il/MatrixTyper/
 
 ##How to use MatrixTyper :
 
@@ -35,5 +37,3 @@ $('h1').matrixtype({
 ==License==
 
 MatrixTyper is licensed under the WTFPL License
-
-www.goufo.co.il
